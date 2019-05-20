@@ -1,0 +1,51 @@
+{
+  "quotes" :
+  [
+    {
+      "quote" : "An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.",
+      "author" : "Bjarne Stroustrup"
+    },
+    {
+      "quote" : "\"How to test?\" is a question that cannot be answered in general. \"When to test?\" however, does have a general answer: as early and as often as possible.",
+      "author" : "Bjarne Stroustrup"
+    },
+    {
+      "quote" : "Design and programming are human activities; forget that and all is lost.",
+      "author" : "Bjarne Stroustrup"
+    },
+    {
+      "quote" : "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+      "author" : "Bjarne Stroustrup"
+    },
+    {
+      "quote" : "",
+      "author" : ""
+    },
+    {
+      "quote" : "",
+      "author" : ""
+    },
+    {
+      "quote" : "",
+      "author" : ""
+    },
+    {
+      "quote" : "",
+      "author" : ""
+    },
+    {
+      "quote" : "",
+      "author" : ""
+    }
+  ],
+
+  "bibliography" :
+  [
+    {
+      "Title": "The C++ Programming Language",
+      "Author": "Bjarne Stroustrup",
+      "PubDate": "1985",
+      "TranslDate": ""
+    }
+  ]
+}
