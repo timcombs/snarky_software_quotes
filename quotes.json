@@ -18,24 +18,64 @@
       "author" : "Bjarne Stroustrup"
     },
     {
-      "quote" : "",
-      "author" : ""
+      "quote" : "Never trust a computer you can/’t throw out a window.",
+      "author" : "Steve Wozniak"
     },
     {
-      "quote" : "",
-      "author" : ""
+      "quote" : "The future masters of technology will have to be light-hearted and intelligent. The machine easily masters the grim and the dumb.",
+      "author" : "Marshall McLuhan"
     },
     {
-      "quote" : "",
-      "author" : ""
+      "quote" : "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author" : "Louis Srygley"
     },
     {
-      "quote" : "",
-      "author" : ""
+      "quote" : "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author" : "Doug Linder"
     },
     {
-      "quote" : "",
-      "author" : ""
+      "quote" : "Walking on water and developing software from a specification are easy if both are frozen.",
+      "author" : "Edward V. Berard"
+    },
+    {
+      "quote" : "The trouble with programmers is that you can never tell what a programmer is doing until it's too late.",
+      "author" : "Seymour Cray"
+    },
+    {
+      "quote" : "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author" : "Martin Fowler"
+    },
+    {
+      "quote" : "There are only two hard problems in Computer Science: cache invalidation and naming things.",
+      "author" : "Phil Karlton"
+    },
+    {
+      "quote" : "There are only two industries that refer to their customers as users.",
+      "author" : "anon."
+    },
+    {
+      "quote" : "Make it correct, make it clear, make it concise, make it fast. In that order.",
+      "author" : "Wes Dyer"
+    },
+    {
+      "quote" : "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.",
+      "author" : "Fred Brooks"
+    },
+    {
+      "quote" : "Theory is when you know something, but it doesn't work. Practice is when something works, but you don't know why. Programmers combine theory and practice: Nothing works and they don't know why.",
+      "author" : "Sam Redwine"
+    },
+    {
+      "quote" : "Programming is difficult. At its core, it is about managing complexity. Computer programs are the most complex things that humans make. Quality is illusive and elusive.",
+      "author" : "Douglas Crockford"
+    },
+    {
+      "quote" : "The structure of software systems tend to reflect the structure of the organization that produce them.",
+      "author" : "Douglas Crockford"
+    },
+    {
+      "quote" : "If builders built buildings the way programmers write programs, then the first woodpecker that came along would destroy civilization.",
+      "author" : "Gerald Weinberg"
     }
   ],
 
